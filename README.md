@@ -1,6 +1,6 @@
 # ChestDiseaseClassification-CNN-Model
 
- - [Data link](https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing)
+ - [Data link](https://drive.google.com/file/d/1hsiimUCC_-4dOfpy5diA1J2Tlr1QxMuO/view?usp=sharing)
 
 ## Workflows
 
