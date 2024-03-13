@@ -1,0 +1,16 @@
+1. Project Introduction
+2. Project Template
+3. Project Setup, requirements installation
+4. Logging, Exception, utility
+5. project workflow
+6. All components Notebook experiment (Data Ingestion,  Prepare base model, Model Trainer, Model Evaluation)
+7. All Components modular code Implementation
+8. Training Pipeline
+9. Prediction Pipeline
+10. MLflow (Mlops toll for experiment tracking and model registry)
+11. DVC - Data Version Control(mlops tool for pipeline tracking)
+12. User App
+13. Docker
+14. CI/CD Deployment using Jenkins
+
+ 
